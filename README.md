@@ -1,5 +1,6 @@
 ## 2016 June
 
+* Key-Value Memory Networks for Directly Reading Documents [[arXiv](https://arxiv.org/pdf/1606.03126v1.pdf)]
 * Learning to learn by gradient descent by gradient descent [[arXiv](https://arxiv.org/abs/1606.04474)]
 * Multilingual Language Processing From Bytes [[arXiv](https://arxiv.org/abs/1512.00103)]
 * Learning to Communicate with Deep Multi-Agent Reinforcement Learning [[arXiv](https://arxiv.org/abs/1605.06676)]
