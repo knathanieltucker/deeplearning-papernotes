@@ -1,3 +1,8 @@
+## 2016 July
+
+* Shallow Convolutional Neural Network for Implicit Discourse Relation Recognition [[emnlp](http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP266.pdf)]
+* Recursive Deep Models for Discourse Parsing [[stanford](http://web.stanford.edu/~jiweil/paper/discourse_ed.pdf)]
+
 ## 2016 June
 
 * Key-Value Memory Networks for Directly Reading Documents [[arXiv](https://arxiv.org/pdf/1606.03126v1.pdf)]
