@@ -1,3 +1,8 @@
+## 2016 August
+
+* Human tests of materials for the Winograd Schema
+Challenge 2016 [[NYU](http://www.cs.nyu.edu/~davise/papers/WS2016SubjectTests.pdf)]
+
 ## 2016 July
 
 * You Only Die Once: Counting Common Sense for Coreference [Unpublished]
