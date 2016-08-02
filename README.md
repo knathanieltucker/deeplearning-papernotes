@@ -5,6 +5,7 @@ Challenge 2016 [[NYU](http://www.cs.nyu.edu/~davise/papers/WS2016SubjectTests.pd
 
 ## 2016 July
 
+* Deep Learning (Chapters up to Regularization) [[MIT Press](http://www.deeplearningbook.org/)]
 * You Only Die Once: Counting Common Sense for Coreference [Unpublished]
 * A PDTB-Styled End-to-End Discourse Parser [[NUS](https://www.comp.nus.edu.sg/~nght/pubs/nle13.pdf)]
 * Shallow Convolutional Neural Network for Implicit Discourse Relation Recognition [[emnlp](http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP266.pdf)]
