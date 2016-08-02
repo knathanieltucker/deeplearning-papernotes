@@ -1,5 +1,6 @@
 ## 2016 August
 
+* Open AI Research #1 [[Link](https://openai.com/blog/generative-models/)]
 * Human tests of materials for the Winograd Schema
 Challenge 2016 [[NYU](http://www.cs.nyu.edu/~davise/papers/WS2016SubjectTests.pdf)]
 
