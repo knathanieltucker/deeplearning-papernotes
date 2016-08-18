@@ -1,5 +1,6 @@
 ## 2016 August
 
+* Deep Networks with Stochastic Depth [[arXiv](http://arxiv.org/pdf/1603.09382v1.pdf)]
 * Open AI Research #1 [[Link](https://openai.com/blog/generative-models/)]
 * Human tests of materials for the Winograd Schema
 Challenge 2016 [[NYU](http://www.cs.nyu.edu/~davise/papers/WS2016SubjectTests.pdf)]
