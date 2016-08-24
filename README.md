@@ -1,5 +1,13 @@
 ## 2016 August
 
+* Full Resolution Image Compression with Recurrent Neural Networks [[arXiv](https://arxiv.org/pdf/1608.05148v1.pdf)]
+* Neural Module Networks [[arXiv](http://arxiv.org/pdf/1511.02799.pdf)]
+* Deep Residual Learning for Image Recognition [[arXiv](https://arxiv.org/pdf/1512.03385v1.pdf)]
+* Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift [[arXiv](https://arxiv.org/pdf/1502.03167v3.pdf)]
+* Memory Networks [[arXiv](http://arxiv.org/pdf/1410.3916v11.pdf)]
+* Natural Language Comprehension with the EpiReader [[arXiv](http://arxiv.org/pdf/1606.02270v2.pdf)]
+* Learning to Compose Neural Networks for Question Answering [[arXiv](http://arxiv.org/pdf/1601.01705.pdf)]
+* LSTM: A Search Space Odyssey [[arXiv](http://arxiv.org/pdf/1503.04069v1.pdf)]
 * Deep Networks with Stochastic Depth [[arXiv](http://arxiv.org/pdf/1603.09382v1.pdf)]
 * Open AI Research #1 [[Link](https://openai.com/blog/generative-models/)]
 * Human tests of materials for the Winograd Schema
