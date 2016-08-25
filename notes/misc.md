@@ -1,3 +1,3 @@
-##
+## 2016 August
 
-https://jaan.io/unreasonable-confusion/
+* [The Unreasonable Confusion of Variational Autoencoders](https://jaan.io/unreasonable-confusion/)
