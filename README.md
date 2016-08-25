@@ -1,5 +1,7 @@
 ## 2016 August
 
+* Bag of Tricks for Efficient Text Classification [[arXiv](http://arxiv.org/pdf/1607.01759v3.pdf)]
+* A Thorough Examination of the CNN/Daily Mail Reading Comprehension Task [[arXiv](http://arxiv.org/pdf/1606.02858v2.pdf)]
 * Full Resolution Image Compression with Recurrent Neural Networks [[arXiv](https://arxiv.org/pdf/1608.05148v1.pdf)]
 * Neural Module Networks [[arXiv](http://arxiv.org/pdf/1511.02799.pdf)]
 * Deep Residual Learning for Image Recognition [[arXiv](https://arxiv.org/pdf/1512.03385v1.pdf)]
