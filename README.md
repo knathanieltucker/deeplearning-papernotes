@@ -1,5 +1,7 @@
 ## 2016 August
 
+* Going Deeper with Convolutions [[CVF](http://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf)]
+* Visualizing and Understanding Convolutional Networks [[arXiv](https://arxiv.org/pdf/1311.2901v3.pdf)]
 * Bag of Tricks for Efficient Text Classification [[arXiv](http://arxiv.org/pdf/1607.01759v3.pdf)]
 * A Thorough Examination of the CNN/Daily Mail Reading Comprehension Task [[arXiv](http://arxiv.org/pdf/1606.02858v2.pdf)]
 * Full Resolution Image Compression with Recurrent Neural Networks [[arXiv](https://arxiv.org/pdf/1608.05148v1.pdf)]
