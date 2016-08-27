@@ -1,5 +1,6 @@
 ## 2016 August
 
+* Random Search for Hyper-Parameter Optimization [[JMLR](http://jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf)]
 * Going Deeper with Convolutions [[CVF](http://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf)]
 * Visualizing and Understanding Convolutional Networks [[arXiv](https://arxiv.org/pdf/1311.2901v3.pdf)]
 * Bag of Tricks for Efficient Text Classification [[arXiv](http://arxiv.org/pdf/1607.01759v3.pdf)]
