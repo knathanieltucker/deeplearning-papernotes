@@ -1,5 +1,9 @@
 ## 2016 August
 
+
+* Dataset and Neural Recurrent Sequence Labeling Model for Open-Domain Factoid Question Answering [[arXiv](http://arxiv.org/pdf/1607.06275v1.pdf)]
+* Recurrent Models of Visual Attention [[arXiv](https://arxiv.org/pdf/1406.6247v1.pdf)]
+* Playing Atari with Deep Reinforcement Learning [[Toronto](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)]
 * InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets [[arXiv](https://arxiv.org/pdf/1606.03657v1.pdf)]
 * Improved Techniques for Training GANs [[arXiv](https://arxiv.org/pdf/1606.03498v1.pdf)]
 * Neural Turing Machines [[arXiv](https://arxiv.org/pdf/1410.5401v2.pdf)]
