@@ -1,5 +1,9 @@
 ## 2016 August
 
+* InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets [[arXiv](https://arxiv.org/pdf/1606.03657v1.pdf)]
+* Improved Techniques for Training GANs [[arXiv](https://arxiv.org/pdf/1606.03498v1.pdf)]
+* Neural Turing Machines [[arXiv](https://arxiv.org/pdf/1410.5401v2.pdf)]
+* Harnessing Deep Neural Networks with Logic Rules [[arXiv](http://arxiv.org/pdf/1603.06318v3.pdf)]
 * Random Search for Hyper-Parameter Optimization [[JMLR](http://jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf)]
 * Going Deeper with Convolutions [[CVF](http://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf)]
 * Visualizing and Understanding Convolutional Networks [[arXiv](https://arxiv.org/pdf/1311.2901v3.pdf)]
