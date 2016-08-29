@@ -1,5 +1,5 @@
 ## 2016 August
-
+* Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks [[arXiv](https://arxiv.org/pdf/1506.05751.pdf)]
 * Exploring the Limits of Language Modeling [[arXiv](http://arxiv.org/pdf/1602.02410v2.pdf)]
 * Dataset and Neural Recurrent Sequence Labeling Model for Open-Domain Factoid Question Answering [[arXiv](http://arxiv.org/pdf/1607.06275v1.pdf)]
 * Recurrent Models of Visual Attention [[arXiv](https://arxiv.org/pdf/1406.6247v1.pdf)]
