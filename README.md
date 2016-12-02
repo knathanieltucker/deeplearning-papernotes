@@ -1,3 +1,7 @@
+## 2016 December
+* Rationalizing Neural Predictions [[arXiv](https://arxiv.org/pdf/1606.04155.pdf)]
+* Using “Annotator Rationales” to Improve Machine Learning for Text Categorization [[JHU](https://www.cs.jhu.edu/~jason/papers/zaidan+al.naacl07.pdf)]
+
 ## 2016 September
 * Why does deep and cheap learning work so well? [[arXiv](http://arxiv.org/pdf/1608.08225v1.pdf)]
 
