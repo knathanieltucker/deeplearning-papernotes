@@ -1,3 +1,6 @@
+## 2017 January
+* Deep Learning (Convoluational NN) [[MIT Press](http://www.deeplearningbook.org/)]
+
 ## 2016 December
 * Rationalizing Neural Predictions [[arXiv](https://arxiv.org/pdf/1606.04155.pdf)]
 * Using “Annotator Rationales” to Improve Machine Learning for Text Categorization [[JHU](https://www.cs.jhu.edu/~jason/papers/zaidan+al.naacl07.pdf)]
