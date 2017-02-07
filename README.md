@@ -1,3 +1,7 @@
+## 2017 February 
+
+* 3-D Depth Reconstruction from a Single Still Image [[Cornell](http://www.cs.cornell.edu/~asaxena/learningdepth/saxena_ijcv07_learningdepth.pdf)]
+
 ## 2017 January
 * Deep Learning (Convoluational NN) [[MIT Press](http://www.deeplearningbook.org/)]
 
