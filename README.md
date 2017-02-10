@@ -1,5 +1,6 @@
 ## 2017 February 
 
+* Hierarchical Bayesian inference in the visual cortex [[CMU](http://www.cnbc.cmu.edu/~tai/papers/lee_mumford_josa.pdf)]
 * 3-D Depth Reconstruction from a Single Still Image [[Cornell](http://www.cs.cornell.edu/~asaxena/learningdepth/saxena_ijcv07_learningdepth.pdf)]
 
 ## 2017 January
