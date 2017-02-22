@@ -1,5 +1,7 @@
 ## 2017 February 
 
+* Recognition-by-Components: A Theory of Human Image Understanding [[Science](http://www.sciencedirect.com/science/article/pii/S0010027798000262)]
+* Recognition-by-Components: A Theory of Human Image Understanding [[MIT](http://people.csail.mit.edu/torralba/courses/6.870/papers/Biederman_RBC_1987.pdf)]
 * Graphical models and message-passing algorithms: Some introductory lectures [[Berkeley](https://people.eecs.berkeley.edu/~wainwrig/Graphical/Wai12_Basics.pdf)]
 * Hierarchical Bayesian inference in the visual cortex [[CMU](http://www.cnbc.cmu.edu/~tai/papers/lee_mumford_josa.pdf)]
 * 3-D Depth Reconstruction from a Single Still Image [[Cornell](http://www.cs.cornell.edu/~asaxena/learningdepth/saxena_ijcv07_learningdepth.pdf)]
