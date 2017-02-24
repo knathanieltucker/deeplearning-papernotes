@@ -1,0 +1,5 @@
+McClelland and Rogers come together to propose Parallel Distributed Processing, a replacement for the Hierarchical Propositional Approach (where humans’ brains are big categorical trees with some information residing only with categories at the higher level) which does not seem to conform to evidence. 
+
+They emulate the functionality of the PDP approach using a feed forward neural network with categorical, relational and item level embeddings. They then show that this approach conforms wit a lot of evidence. Representations of items hierarchically clustered in Euclidian space, differentiation occurred first a major boundaries (plants vs animals then fish vs birds etc.), simulated degradation (imposed by noise in the representations) also started with specific features and then proceeded up the tree (forgot that birds can sing, then fly, then move), names of commonly occurring items were overrepresented (like kids calling all animals dogs). 
+
+Overall a fun paper that is a very light intro into neural networks for those with a neuroscience background.
