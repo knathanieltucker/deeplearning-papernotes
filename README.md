@@ -1,5 +1,6 @@
 ## 2017 February 
 
+* The parallel distributed processing approach to semantic cognition [[Nature](http://www.nature.com/nrn/journal/v4/n4/abs/nrn1076.html)]
 * Unsupervised Learning of Invariant Feature Hierarchies with Applications to Object Recognition [[LeCun](http://yann.lecun.com/exdb/publis/pdf/ranzato-cvpr-07.pdf)]
 * API design for machine learning software: experiences from the scikit-learn project [[arXiv](https://arxiv.org/pdf/1309.0238.pdf)]
 * Image-based object recognition in man, monkey and machine [[Science](http://www.sciencedirect.com/science/article/pii/S0010027798000262)]
