@@ -1,5 +1,6 @@
 ## 2017 February 
 
+* HOW THE BRAIN MIGHT WORK: A HIERARCHICAL AND TEMPORAL MODEL FOR LEARNING AND RECOGNITION [[MIT](http://passthrough.fw-notify.net/download/784608/http://alpha.tmit.bme.hu/speech/docs/education/02_DileepThesis.pdf)]
 * Perceptual symbol systems [[UCSD](http://wixtedlab.ucsd.edu/publications/Psych%20218/Barsalou_1999.pdf)]
 * The parallel distributed processing approach to semantic cognition [[Nature](http://www.nature.com/nrn/journal/v4/n4/abs/nrn1076.html)]
 * Unsupervised Learning of Invariant Feature Hierarchies with Applications to Object Recognition [[LeCun](http://yann.lecun.com/exdb/publis/pdf/ranzato-cvpr-07.pdf)]
