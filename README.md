@@ -1,5 +1,6 @@
 ## 2017 February 
 
+* [Understanding Neural Networks through Representation Erasure](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Understanding_Neural_Networks_through_RepresentationErasure.md) [[arXiv](https://arxiv.org/abs/1612.08220)]
 * [Shapecollage: occlusion-aware, example-based shape interpretation](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Shapecollage.md) [[MIT](http://persci.mit.edu/pub_pdfs/shapecollage.pdf)]
 * [HOW THE BRAIN MIGHT WORK: A HIERARCHICAL AND TEMPORAL MODEL FOR LEARNING AND RECOGNITION](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/HOW_THE_BRAIN_MIGHT_WORK.md) [[MIT](http://passthrough.fw-notify.net/download/784608/http://alpha.tmit.bme.hu/speech/docs/education/02_DileepThesis.pdf)]
 * Perceptual symbol systems [[UCSD](http://wixtedlab.ucsd.edu/publications/Psych%20218/Barsalou_1999.pdf)]
