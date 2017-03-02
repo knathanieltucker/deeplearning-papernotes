@@ -1,3 +1,7 @@
+## 2017 March
+
+* Effective Python [[Site](http://www.effectivepython.com)]
+* Pro Python [[Site](http://propython.com)]
 ## 2017 February 
 
 * [Understanding Neural Networks through Representation Erasure](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Understanding_Neural_Networks_through_RepresentationErasure.md) [[arXiv](https://arxiv.org/abs/1612.08220)]
