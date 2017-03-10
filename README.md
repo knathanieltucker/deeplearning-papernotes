@@ -1,5 +1,9 @@
 ## 2017 March
 
+* WAVENET: A GENERATIVE MODEL FOR RAW AUDIO [[arXiv](https://arxiv.org/pdf/1609.03499.pdf)]
+* Attention and Augmented Recurrent Neural Networks [[Distill](http://distill.pub/2016/augmented-rnns/)]
+* DEEP PROBABILISTIC PROGRAMMING [[arXiv](https://arxiv.org/pdf/1701.03757v2.pdf)]
+* [NEURAL ARCHITECTURE SEARCH WITH REINFORCEMENT LEARNING](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/NEURAL_ARCHITECTURE_SEARCH_WITH_REINFORCEMENT_LEARNING.md) [[arXiv](https://arxiv.org/pdf/1611.01578.pdf)]
 * Effective Python [[Site](http://www.effectivepython.com)]
 * Pro Python [[Site](http://propython.com)]
 ## 2017 February 
