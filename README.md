@@ -1,5 +1,6 @@
 ## 2017 March
 
+* Understanding Neural Networks Through Deep Visualization [[arXiv](http://yosinski.com/media/papers/Yosinski__2015__ICML_DL__Understanding_Neural_Networks_Through_Deep_Visualization__.pdf)]
 * WAVENET: A GENERATIVE MODEL FOR RAW AUDIO [[arXiv](https://arxiv.org/pdf/1609.03499.pdf)]
 * Attention and Augmented Recurrent Neural Networks [[Distill](http://distill.pub/2016/augmented-rnns/)]
 * DEEP PROBABILISTIC PROGRAMMING [[arXiv](https://arxiv.org/pdf/1701.03757v2.pdf)]
