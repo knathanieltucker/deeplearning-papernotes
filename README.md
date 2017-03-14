@@ -1,5 +1,6 @@
 ## 2017 March
 
+* [Statistical Modeling: The Two Cultures](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Statistical_Modeling_The_Two_Cultures.md) [[JSTOR](http://www2.math.uu.se/~thulin/mm/breiman.pdf)]
 * Understanding Neural Networks Through Deep Visualization [[arXiv](http://yosinski.com/media/papers/Yosinski__2015__ICML_DL__Understanding_Neural_Networks_Through_Deep_Visualization__.pdf)]
 * WAVENET: A GENERATIVE MODEL FOR RAW AUDIO [[arXiv](https://arxiv.org/pdf/1609.03499.pdf)]
 * Attention and Augmented Recurrent Neural Networks [[Distill](http://distill.pub/2016/augmented-rnns/)]
