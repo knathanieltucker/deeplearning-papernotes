@@ -1,5 +1,7 @@
 ## 2017 March
 
+* [Recurrent Models of Visual Attention](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Recurrent_Models_of_Visual_Attention.md) [[NIPS](https://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf)]
+* [MULTIPLE OBJECT RECOGNITION WITH VISUAL ATTENTION](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/MULTIPLE_OBJECT_RECOGNITION_WITH_VISUAL_ATTENTION.md) [[arXiv](https://arxiv.org/pdf/1412.7755.pdf)]
 * [PathNet: Evolution Channels Gradient Descent in Super Neural Networks](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/PathNet_Evolution_Channels_Gradient_Descent_in_Super_Neural_Networks.md) [[arXiv](https://arxiv.org/abs/1701.08734)]
 * Visualizing Data using t-SNE [[JMLR](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)]
 * [Statistical Modeling: The Two Cultures](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Statistical_Modeling_The_Two_Cultures.md) [[JSTOR](http://www2.math.uu.se/~thulin/mm/breiman.pdf)]
