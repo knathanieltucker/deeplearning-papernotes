@@ -1,5 +1,8 @@
 ## 2017 March
 
+* Wide Residual Networks [[arXiv](https://arxiv.org/pdf/1605.07146v1.pdf)]
+* [Identity Mappings in Deep Residual Networks](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Identity_Mappings_in_Deep_Residual_Networks.md) [[arXiv](https://arxiv.org/pdf/1603.05027v2.pdf)]
+* [Deep Residual Learning for Image Recognition](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Deep_Residual_Learning_for_Image_Recognition.md) [[arXiv](https://arxiv.org/pdf/1512.03385v1.pdf)]
 * [DRAW: A Recurrent Neural Network For Image Generation](https://github.com/knathanieltucker/deeplearning-papernotes/tree/master/notes) [[arXiv](https://arxiv.org/pdf/1502.04623.pdf)]
 * [Recurrent Models of Visual Attention](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Recurrent_Models_of_Visual_Attention.md) [[NIPS](https://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf)]
 * [MULTIPLE OBJECT RECOGNITION WITH VISUAL ATTENTION](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/MULTIPLE_OBJECT_RECOGNITION_WITH_VISUAL_ATTENTION.md) [[arXiv](https://arxiv.org/pdf/1412.7755.pdf)]
