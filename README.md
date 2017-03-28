@@ -1,5 +1,6 @@
 ## 2017 March
 
+* Deep Learning Book (Sequence Modeling: Recurrentand Recursive Nets) [[Book]](http://www.deeplearningbook.org/contents/rnn.html)
 * Wide Residual Networks [[arXiv](https://arxiv.org/pdf/1605.07146v1.pdf)]
 * [Identity Mappings in Deep Residual Networks](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Identity_Mappings_in_Deep_Residual_Networks.md) [[arXiv](https://arxiv.org/pdf/1603.05027v2.pdf)]
 * [Deep Residual Learning for Image Recognition](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Deep_Residual_Learning_for_Image_Recognition.md) [[arXiv](https://arxiv.org/pdf/1512.03385v1.pdf)]
