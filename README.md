@@ -1,3 +1,8 @@
+## 2017 April
+
+* Episodic Exploration for Deep Deterministic Policies: An Application to StarCraft Micromanagement Tasks [[arXiv](https://arxiv.org/pdf/1609.02993.pdf)]
+* Random feedback weights support learning in deep neural networks [[arXiv](https://arxiv.org/pdf/1411.0247v1.pdf)]
+
 ## 2017 March
 
 * Deep Learning Book (Sequence Modeling: Recurrentand Recursive Nets) [[Book]](http://www.deeplearningbook.org/contents/rnn.html)
