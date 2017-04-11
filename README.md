@@ -1,5 +1,7 @@
 ## 2017 April
 
+* [HIERARCHICAL MULTISCALE RECURRENT NEURAL NETWORKS](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/HIERARCHICAL_MULTISCALE_RECURRENT_NEURAL_NETWORKS.md) [[arXiv](https://arxiv.org/pdf/1609.01704.pdf)]
+* [Decoupled Neural Interfaces using Synthetic Gradients](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/DecoupledNeuralInterfacesusingSyntheticGradients.md) [[arXiv](https://arxiv.org/pdf/1608.05343.pdf)]
 * [Top-down Neural Attention by Excitation Backprop](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Top-downNeuralAttentionbyExcitationBackprop.md) [[arXiv](https://arxiv.org/pdf/1608.00507.pdf)]
 * [Generalization and Equilibrium in Generative Adversarial Nets (GANs)](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/GeneralizationandEquilibriuminGenerativeAdversarialNets.md) [[arXiv](https://arxiv.org/pdf/1703.00573.pdf)]
 * A Mathematical Theory of Communication [[Harvard Math](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)]
