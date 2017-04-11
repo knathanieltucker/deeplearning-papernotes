@@ -1,5 +1,8 @@
 ## 2017 April
 
+* [Top-down Neural Attention by Excitation Backprop](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Top-downNeuralAttentionbyExcitationBackprop.md) [[arXiv](https://arxiv.org/pdf/1608.00507.pdf)]
+* [Generalization and Equilibrium in Generative Adversarial Nets (GANs)](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/GeneralizationandEquilibriuminGenerativeAdversarialNets.md) [[arXiv](https://arxiv.org/pdf/1703.00573.pdf)]
+* A Mathematical Theory of Communication [[Harvard Math](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)]
 * Episodic Exploration for Deep Deterministic Policies: An Application to StarCraft Micromanagement Tasks [[arXiv](https://arxiv.org/pdf/1609.02993.pdf)]
 * Random feedback weights support learning in deep neural networks [[arXiv](https://arxiv.org/pdf/1411.0247v1.pdf)]
 
