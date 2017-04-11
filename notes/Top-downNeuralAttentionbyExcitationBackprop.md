@@ -1,0 +1,3 @@
+So this one is done by some people in BU and Adobe research. The idea is simple: use a probabilistic winner take all process to do top down attention. The idea is given you are looking at a cat, what are the most important neurons in your network (where should you focus). The strategy they make is called Excitation Backprop and is pretty simple. It boils down to: the probability that you are important given one of your parents is important is your weight times your activation to that parent normalized (and of course take out the negative weights). 
+
+They produced some SOTA results but unfortunately implemented all their stuff in Caffe….
