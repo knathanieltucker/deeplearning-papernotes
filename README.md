@@ -1,5 +1,7 @@
 ## 2017 April
 
+* [ENERGY-BASED GENERATIVE ADVERSARIAL NET- WORKS](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Energy-basedGenerativeAdversarialNetwork.md) [[arXiv](https://arxiv.org/pdf/1609.03126.pdf)] (LeCun)
+* [Transferability in Machine Learning: from Phenomena to Black-Box Attacks using Adversarial Samples](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/TransferabilityinMachineLearning.md) [[arXiv](https://arxiv.org/pdf/1605.07277.pdf)] (Goodfellow)
 * [HIERARCHICAL MULTISCALE RECURRENT NEURAL NETWORKS](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/HIERARCHICAL_MULTISCALE_RECURRENT_NEURAL_NETWORKS.md) [[arXiv](https://arxiv.org/pdf/1609.01704.pdf)]
 * [Decoupled Neural Interfaces using Synthetic Gradients](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/DecoupledNeuralInterfacesusingSyntheticGradients.md) [[arXiv](https://arxiv.org/pdf/1608.05343.pdf)]
 * [Top-down Neural Attention by Excitation Backprop](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Top-downNeuralAttentionbyExcitationBackprop.md) [[arXiv](https://arxiv.org/pdf/1608.00507.pdf)]
