@@ -1,5 +1,7 @@
 ## 2017 April
 
+* [LEARNING TO PROTECT COMMUNICATIONS WITH ADVERSARIAL NEURAL CRYPTOGRAPHY](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/LEARNING_TO_PROTECT_COMMUNICATIONS_WITH_ADVERSARIAL_NEURAL_CRYPTOGRAPHY.md) [[arXiv](https://arxiv.org/pdf/1610.06918.pdf)] (Google Brian)
+* [NEURAL PROGRAMMER: INDUCING LATENT PROGRAMS WITH GRADIENT DESCENT](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/NEURAL_PROGRAMMER.md) [[arXiv]](https://arxiv.org/pdf/1511.04834.pdf) (Quoc Le, Sutskever)
 * [Professor Forcing: A New Algorithm for Training Recurrent Networks](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/ProfessorForcing.md) [[arXiv](https://arxiv.org/pdf/1610.09038.pdf)] (Courville, Bengio)
 * [OUTRAGEOUSLY LARGE NEURAL NETWORKS: THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/OUTRAGEOUSLY_LARGE_NEURAL_NETWORKS.md) [[arXiv](https://arxiv.org/pdf/1701.06538.pdf)] (Quoc Le, Hinton, Dean)
 * CATEGORICAL REPARAMETERIZATION WITH GUMBEL-SOFTMAX [[arXiv](https://arxiv.org/pdf/1611.01144.pdf)] (Google Brain)
