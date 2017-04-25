@@ -1,0 +1,1 @@
+A deep mind here that more reminds me of a google brain paper. This guys is all about the little things. In very short they showed a stacked encoder decoder conv net can be as performant at character based tasks as LSTMs except it can be much much faster.
