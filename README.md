@@ -1,5 +1,9 @@
 ## 2017 April
 
+* [Professor Forcing: A New Algorithm for Training Recurrent Networks](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/ProfessorForcing.md) [[arXiv](https://arxiv.org/pdf/1610.09038.pdf)] (Courville, Bengio)
+* [OUTRAGEOUSLY LARGE NEURAL NETWORKS: THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/OUTRAGEOUSLY_LARGE_NEURAL_NETWORKS.md) [[arXiv](https://arxiv.org/pdf/1701.06538.pdf)] (Quoc Le, Hinton, Dean)
+* CATEGORICAL REPARAMETERIZATION WITH GUMBEL-SOFTMAX [[arXiv](https://arxiv.org/pdf/1611.01144.pdf)] (Google Brain)
+* [Neural Machine Translation in Linear Time](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/NeuralMachineTranslationinLinearTime.md) [[arXiv](https://arxiv.org/pdf/1610.10099.pdf)] (Graves)
 * [WIKIREADING: A Novel Large-scale Language Understanding Task over Wikipedia](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/WIKIREADING.md) [[arXiv]](https://arxiv.org/pdf/1608.03542v1.pdf) (Google Research)
 * Generative Adversarial Imitation Learning [[arXiv](https://arxiv.org/pdf/1606.03476v1.pdf)] (Stanford)
 * [ENERGY-BASED GENERATIVE ADVERSARIAL NET- WORKS](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Energy-basedGenerativeAdversarialNetwork.md) [[arXiv](https://arxiv.org/pdf/1609.03126.pdf)] (LeCun)
