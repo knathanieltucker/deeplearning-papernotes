@@ -1,0 +1,1 @@
+Lots of big names here! I like this guy. It is basically a mixture of networks model. They sparsely gate (choose the top K using hard softmax). And they use some regularization to ensure all models are chosen equally. But other than that, not much. Good paper, I enjoyed.
