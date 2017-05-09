@@ -1,3 +1,8 @@
+## 2017 May
+
+* Deep Learning Book (Practical Methodology) [[Book]](http://www.deeplearningbook.org/contents/guidelines.html) (Goodfellow, Bengio, Courville)
+* Human-level concept learning through probabilistic program induction [[Science](http://science.sciencemag.org/content/350/6266/1332.full)] (Tenenbaum)
+
 ## 2017 April
 
 * [LEARNING TO PROTECT COMMUNICATIONS WITH ADVERSARIAL NEURAL CRYPTOGRAPHY](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/LEARNING_TO_PROTECT_COMMUNICATIONS_WITH_ADVERSARIAL_NEURAL_CRYPTOGRAPHY.md) [[arXiv](https://arxiv.org/pdf/1610.06918.pdf)] (Google Brian)
