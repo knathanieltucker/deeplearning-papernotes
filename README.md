@@ -1,5 +1,7 @@
 ## 2017 May
 
+* Deep Learning Book (Applications) [[Book]](http://www.deeplearningbook.org/contents/applications.html) (Goodfellow, Bengio, Courville)
+* [Semi-Supervised Learning with Ladder Networks](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Semi-SupervisedLearningwithLadderNetworks.md) [[arXiv](https://arxiv.org/abs/1507.02672)]
 * Deep Learning Book (Practical Methodology) [[Book]](http://www.deeplearningbook.org/contents/guidelines.html) (Goodfellow, Bengio, Courville)
 * Human-level concept learning through probabilistic program induction [[Science](http://science.sciencemag.org/content/350/6266/1332.full)] (Tenenbaum)
 
