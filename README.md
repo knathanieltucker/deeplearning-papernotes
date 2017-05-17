@@ -1,5 +1,8 @@
 ## 2017 May
 
+* [Joint Embeddings of Shapes and Images via CNN Image Purification](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/JointEmbeddingsofShapesandImagesviaCNNImagePurification.md) [[Stanford](https://shapenet.cs.stanford.edu/projects/JointEmbedding/JointEmbedding.pdf)]
+* View-invariant Representations of Familiar Objects by Neurons in the Inferior Temporal Visual Cortex [[Oxford](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/cercor/8/6/10.1093_cercor_8.6.510/1/080510.pdf?Expires=1494977636&Signature=PgZzpD93B~vzxQe1KsqfZN0E4S1Vn4AygEkqO5HGIZ-pKNqQAMx2IGzAPLNwHNRPSOs7o94fuD10LJ2dtMq4EJyw7K8Z~w6x5Jf7i1G3S~Tri7v8McSk7gPH5VQdbmsmuOrsHv2SG1l0GIzWG5BfqWxA5rZwvBhdGJMm4oBkv~o2FbUatHnq3Es3SLDc~ZcvwXSPDoFeIyaEwvN4IkpgeJ4PoBBn~TvzePxnHrQXqy2XUWhWf8dbROfuIlaNRZH2twO~94ZnSZ2FB6jmPO-06eWCwZAhWD29KzhNsIBhcfYCzjHTGAxiiuADY2v4qv2IN1J8hyX4NOpSlW5f3SG8qw__&Key-Pair-Id=APKAIUCZBIA4LVPAVW3Q)]
+* ONE-SHOT VIEW INVARIANCE IN A MOVING WORLD [[WEXLER](http://wexler.free.fr/library/files/kourtzi%20(1997)%20one-shot%20view%20invariance%20in%20a%20moving%20world.pdf)]
 * Deep Learning Book (Applications) [[Book]](http://www.deeplearningbook.org/contents/applications.html) (Goodfellow, Bengio, Courville)
 * [Semi-Supervised Learning with Ladder Networks](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Semi-SupervisedLearningwithLadderNetworks.md) [[arXiv](https://arxiv.org/abs/1507.02672)]
 * Deep Learning Book (Practical Methodology) [[Book]](http://www.deeplearningbook.org/contents/guidelines.html) (Goodfellow, Bengio, Courville)
