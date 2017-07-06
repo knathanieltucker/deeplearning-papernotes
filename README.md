@@ -1,5 +1,6 @@
 ## 2017 July
 
+* [Multi-Scale Context Aggregation by Dilated Convolutions](https://github.com/knathanieltucker/deeplearning-papernotes/tree/master/notes) [[arXiv](https://arxiv.org/abs/1511.07122)] (Yu)
 * [3D Attention-Driven Depth Acquisition for Object Identification](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/3DAttentionDrivenDepthAcquisitionforObjectIdentification.md) [[Stanford](http://ai.stanford.edu/~haosu/papers/siga16_nbv.pdf)] [[Code](https://github.com/kevin-kaixu/multi_view_ram)]
 
 ## 2017 May
