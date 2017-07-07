@@ -1,5 +1,8 @@
 ## 2017 July
 
+* A comparative study of video-based object recognition from an egocentric viewpoint [[paper](http://www.iis.ee.ic.ac.uk/dtang/draft_neucom_2nd.pdf)]
+* The 2017 DAVIS Challenge on Video Object Segmentation [[arXiv](https://arxiv.org/pdf/1704.00675.pdf)]
+* [Learning Video Object Segmentation with Visual Memory](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Learning%20VideoObjectSegmentationwithVisualMemory.md) [[arXiv](https://arxiv.org/pdf/1704.05737.pdf)]
 * [Dilated Residual Networks](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/DilatedResidualNetworks.md) [[arXiv](https://arxiv.org/abs/1705.09914)] (Yu)
 * [Semantic Scene Completion from a Single Depth Image](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/SemanticSceneCompletionfromaSingleDepthImage.md) [[arXiv](https://arxiv.org/abs/1611.08974)] (Yu)
 * [Multi-view CNN (MVCNN) for shape recognition](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Multi-view_CNN_for_shape_recognition.md) [[arXiv](https://arxiv.org/pdf/1505.00880.pdf)] [[Code](https://github.com/suhangpro/mvcnn)]
