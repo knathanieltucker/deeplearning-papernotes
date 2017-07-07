@@ -1,5 +1,7 @@
 ## 2017 July
 
+* [Dilated Residual Networks](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/DilatedResidualNetworks.md) [[arXiv](https://arxiv.org/abs/1705.09914)] (Yu)
+* [Semantic Scene Completion from a Single Depth Image](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/SemanticSceneCompletionfromaSingleDepthImage.md) [[arXiv](https://arxiv.org/abs/1611.08974)] (Yu)
 * [Multi-view CNN (MVCNN) for shape recognition](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Multi-view_CNN_for_shape_recognition.md) [[arXiv](https://arxiv.org/pdf/1505.00880.pdf)] [[Code](https://github.com/suhangpro/mvcnn)]
 * A guide to convolution arithmetic for deep learning [[arXiv](https://arxiv.org/abs/1603.07285)]
 * [Multi-Scale Context Aggregation by Dilated Convolutions](https://github.com/knathanieltucker/deeplearning-papernotes/tree/master/notes) [[arXiv](https://arxiv.org/abs/1511.07122)] (Yu)
