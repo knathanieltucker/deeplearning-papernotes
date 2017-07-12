@@ -1,5 +1,10 @@
 ## 2017 July
 
+* [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/SegNet.md) [[arXiv](https://arxiv.org/abs/1511.00561)]
+* [You Only Look Once: Unified, Real-Time Object Detection](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/YouOnlyLookOnceUnifiedReal-TimeObjectDetection.md) [[arXiv](https://arxiv.org/abs/1506.02640)]
+* DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs [[arXiv](https://arxiv.org/abs/1606.00915)] (Murphy)
+* Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks [[arXiv](https://arxiv.org/abs/1506.01497)]
+* Deep learning in neural networks: An overview [[IAState](http://www2.econ.iastate.edu/tesfatsi/DeepLearningInNeuralNetworksOverview.JSchmidhuber2015.pdf)] (Schmidhuber)
 * A comparative study of video-based object recognition from an egocentric viewpoint [[paper](http://www.iis.ee.ic.ac.uk/dtang/draft_neucom_2nd.pdf)]
 * The 2017 DAVIS Challenge on Video Object Segmentation [[arXiv](https://arxiv.org/pdf/1704.00675.pdf)]
 * [Learning Video Object Segmentation with Visual Memory](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Learning%20VideoObjectSegmentationwithVisualMemory.md) [[arXiv](https://arxiv.org/pdf/1704.05737.pdf)]
