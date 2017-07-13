@@ -1,5 +1,11 @@
 ## 2017 July
 
+* Multi-view Face Detection Using Deep Convolutional Neural Networks [[arXiv](https://arxiv.org/abs/1502.02766)]
+* A Comparative Analysis and Study of Multiview CNN Models for Joint Object
+Categorization and Pose Estimation [[MLR](http://proceedings.mlr.press/v48/elhoseiny16.pdf)]
+* Aligning 3D Models to RGB-D Images of Cluttered Scenes [[Berkeley](https://people.eecs.berkeley.edu/~sgupta/pdf/rgbd-pose.pdf)]
+* [Real-Time Grasp Detection Using Convolutional Neural Networks](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/RealTimeGraspDetectionUsingConvolutionalNeuralNetworks.md) [[arXiv](https://arxiv.org/abs/1412.3128)]
+* [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/SqueezeNet.md) [[arXiv](https://arxiv.org/abs/1602.07360)]
 * [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/SegNet.md) [[arXiv](https://arxiv.org/abs/1511.00561)]
 * [You Only Look Once: Unified, Real-Time Object Detection](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/YouOnlyLookOnceUnifiedReal-TimeObjectDetection.md) [[arXiv](https://arxiv.org/abs/1506.02640)]
 * DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs [[arXiv](https://arxiv.org/abs/1606.00915)] (Murphy)
