@@ -1,5 +1,6 @@
 ## 2017 July
 
+* Multi-view Self-supervised Deep Learning for 6D Pose Estimation in the Amazon Picking Challenge [[arXiv](https://arxiv.org/abs/1609.09475)] (Xiao)
 * Multi-view Face Detection Using Deep Convolutional Neural Networks [[arXiv](https://arxiv.org/abs/1502.02766)]
 * A Comparative Analysis and Study of Multiview CNN Models for Joint Object
 Categorization and Pose Estimation [[MLR](http://proceedings.mlr.press/v48/elhoseiny16.pdf)]
