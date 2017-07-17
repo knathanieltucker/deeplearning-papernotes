@@ -1,0 +1,3 @@
+Another multi view CNN paper. This guy uses memorized unpooling like Segnet and does teaching training at different scales as the network is upsampled. Really the only reason I am writing this is because the somewhat interesting way they tackled the multi view problem. First they ‘warped’ the other views so that they matched the pixels to the base view and then they fused feature maps over the warped images using max pooling.
+
+Interesting…
