@@ -1,5 +1,12 @@
 ## 2017 July
 
+* A Review on Deep Learning Techniques Applied to Semantic Segmentation [[arXiv](https://arxiv.org/abs/1704.06857)]
+* [Learning to Segment Object Candidates](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/DeepMask.md) [[arXiv](https://arxiv.org/pdf/1506.06204.pdf)] (FAIR)
+* PARSENET: LOOKING WIDER TO SEE BETTER [[arXiv](https://arxiv.org/pdf/1506.04579.pdf)]
+* [A Point Set Generation Network for 3D Object Reconstruction from a Single Image](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/PointSetGenerationNetwork3DObjectReconstructionSingleImage.md) [[arXiv](http://ai.stanford.edu/~haosu/papers/SI2PC_arxiv_submit.pdf)] (Su)
+* [3D-R2N2: A Unified Approach for Single and Multi-view 3D Object Reconstruction](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/3D-R2N2.md) [[arXiv](https://arxiv.org/abs/1604.00449)] 
+* [FuseNet](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Fusenet.md) [[paper](https://vision.in.tum.de/_media/spezial/bib/hazirbasma2016fusenet.pdf)]
+* [Multi-View Deep Learning for Consistent Semantic Mapping with RGB-D Cameras](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Multi-ViewDeepLearningforConsistentSemanticMappingwithRGB-DCameras.md) [[arXiv](https://arxiv.org/pdf/1703.08866.pdf)]
 * Multi-view Self-supervised Deep Learning for 6D Pose Estimation in the Amazon Picking Challenge [[arXiv](https://arxiv.org/abs/1609.09475)] (Xiao)
 * Multi-view Face Detection Using Deep Convolutional Neural Networks [[arXiv](https://arxiv.org/abs/1502.02766)]
 * A Comparative Analysis and Study of Multiview CNN Models for Joint Object
