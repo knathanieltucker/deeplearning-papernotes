@@ -1,0 +1,3 @@
+This is a Hat Su paper. The problem is somewhat simple. They want to take a single image and make a 3D point cloud out of it. The network is a CNN that embeds the original image and then does two things: first is it uses the embedding to output some points and then it uses the embedding to deconvolve into some more points. They also invent some distance metrics to make the whole thing work.
+
+This paper goes out to solve something novel: create a point cloud instead of a voxel reconstruction. And because of this it get results that are significantly better. I think there are some easy improvements that can be done here to bump the performance even more, but this is a great start. 
