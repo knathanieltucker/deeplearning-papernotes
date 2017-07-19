@@ -1,5 +1,9 @@
 ## 2017 July
 
+* Learning to Refine Object Segments [[arXiv](https://arxiv.org/abs/1603.08695)]
+* Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning [[arXiv](https://arxiv.org/abs/1602.07261)] (Szegedy, Ioffe)
+* A MultiPath Network for Object Detection [[arXiv](https://arxiv.org/abs/1604.02135)]
+* [Mask R-CNN](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Mask%20R-CNN.md) [[arXiv](https://arxiv.org/abs/1703.06870)] (He)
 * Fully Convolutional Instance-aware Semantic Segmentation [[arXiv](https://arxiv.org/pdf/1611.07709.pdf)] (Dai)
 * A Self-supervised Learning System for Object Detection using Physics Simulation and Multi-view Pose Estimation [[arXiv](https://arxiv.org/pdf/1703.03347.pdf)]
 * Pixelwise Instance Segmentation with a Dynamically Instantiated Network [[arXiv](https://arxiv.org/pdf/1704.02386.pdf)] (Torr)
