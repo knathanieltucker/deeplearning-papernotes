@@ -1,0 +1,3 @@
+A fun little paper. This one looks at the instance segmentation problem from another lens. Instead of using sliding windows and a region proposal network, this one does two things: semantic segmentation and edge detection. Both are done with a CNN. The latter a CNN with context aggregation through skip connections and a Context Network for a sharper edge map. The edge map is then mapped onto super pixels and both the semantic segmentation and the edge map are fed into a CRF with a nasty optimization problem on top.
+
+I like the initial idea of the paper. No multi scale sliding windows and no region proposal network, but there is too much process still!
