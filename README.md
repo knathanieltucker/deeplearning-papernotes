@@ -1,5 +1,16 @@
 ## 2017 July
 
+* Fully Convolutional Instance-aware Semantic Segmentation [[arXiv](https://arxiv.org/pdf/1611.07709.pdf)] (Dai)
+* A Self-supervised Learning System for Object Detection using Physics Simulation and Multi-view Pose Estimation [[arXiv](https://arxiv.org/pdf/1703.03347.pdf)]
+* Pixelwise Instance Segmentation with a Dynamically Instantiated Network [[arXiv](https://arxiv.org/pdf/1704.02386.pdf)] (Torr)
+* [Deep Watershed Transform for Instance Segmentation](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/DeepWatershedTransformforInstanceSegmentation.md) [[arXiv](https://arxiv.org/pdf/1611.08303.pdf)]
+* Instance-sensitive Fully Convolutional Networks [[arXiv](https://arxiv.org/pdf/1603.08678.pdf)]
+* [Boundary-aware Instance Segmentation](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Boundary-awareInstanceSegmentation.md) [[arXiv](https://arxiv.org/pdf/1612.03129.pdf)]
+* Speed/accuracy trade-offs for modern convolutional object detectors [[arXiv](https://arxiv.org/pdf/1611.10012.pdf)] (Murphy)
+* [InstanceCut: from Edges to Instances with MultiCut](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/InstanceCut.md) [[arXiv](https://arxiv.org/pdf/1611.08272.pdf)]
+* SSD: Single Shot MultiBox Detector [[arXiv](https://arxiv.org/pdf/1512.02325.pdf)] (Szegedy)
+* End-to-End Instance Segmentation with Recurrent Attention [[arXiv](https://arxiv.org/pdf/1605.09410.pdf)]
+* [Recurrent Instance Segmentation](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/RecurrentInstanceSegmentation.md) [[arXiv](https://arxiv.org/pdf/1511.08250.pdf)] (Torr)
 * A Review on Deep Learning Techniques Applied to Semantic Segmentation [[arXiv](https://arxiv.org/abs/1704.06857)]
 * [Learning to Segment Object Candidates](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/DeepMask.md) [[arXiv](https://arxiv.org/pdf/1506.06204.pdf)] (FAIR)
 * PARSENET: LOOKING WIDER TO SEE BETTER [[arXiv](https://arxiv.org/pdf/1506.04579.pdf)]
