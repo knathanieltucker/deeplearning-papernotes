@@ -1,5 +1,7 @@
 ## 2017 July
 
+* Learning Efficient Point Cloud Generation for Dense 3D Object Reconstruction [[arXiv](https://arxiv.org/pdf/1706.07036.pdf)]
+* Representation Learning and Adversarial Generation of 3D Point Clouds [[arXiv](https://arxiv.org/pdf/1707.02392.pdf)]
 * Learning to Refine Object Segments [[arXiv](https://arxiv.org/abs/1603.08695)]
 * Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning [[arXiv](https://arxiv.org/abs/1602.07261)] (Szegedy, Ioffe)
 * A MultiPath Network for Object Detection [[arXiv](https://arxiv.org/abs/1604.02135)]
