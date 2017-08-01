@@ -1,5 +1,8 @@
 ## 2017 August
 
+* [Feature Pyramid Networks for Object Detection](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/FeaturePyramidNetworksforObjectDetection.md) [[arXiv](https://arxiv.org/abs/1612.03144)] (FAIR)
+* PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space [[arXiv](https://arxiv.org/abs/1706.02413)] (H. Su)
+* [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/PointNet.md) [[arXiv](https://arxiv.org/abs/1612.00593)] (H. Su)
 * [Learning from Simulated and Unsupervised Images through Adversarial Training](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/LearningfromSimulatedandUnsupervisedImagesthroughAdversarialTraining.md) [[arXiv](https://arxiv.org/abs/1612.07828)] (Apple)
 * [Pyramid Scene Parsing Network](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/PyramidSceneParsingNetwork.md) [[arXiv](https://arxiv.org/abs/1612.01105)]
 
