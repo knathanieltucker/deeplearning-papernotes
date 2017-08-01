@@ -1,3 +1,8 @@
+## 2017 August
+
+* [Learning from Simulated and Unsupervised Images through Adversarial Training](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/LearningfromSimulatedandUnsupervisedImagesthroughAdversarialTraining.md) [[arXiv](https://arxiv.org/abs/1612.07828)] (Apple)
+* [Pyramid Scene Parsing Network](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/PyramidSceneParsingNetwork.md) [[arXiv](https://arxiv.org/abs/1612.01105)]
+
 ## 2017 July
 
 * Learning Efficient Point Cloud Generation for Dense 3D Object Reconstruction [[arXiv](https://arxiv.org/pdf/1706.07036.pdf)]
