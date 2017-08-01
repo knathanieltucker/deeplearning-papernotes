@@ -1,0 +1,1 @@
+Our first apple paper and a really good one at that. The idea is simple: make a refiner network that will make synthetic images look more like real ones and train it in an adversarial way. There are a lot of details, but not too many, a really good read.
