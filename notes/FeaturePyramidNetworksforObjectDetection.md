@@ -1,0 +1,2 @@
+A FAIR work. I love the use of the terms lateral connections and top down and bottom up reasoning. The feature pyramid network is a way to incorporate multi scale reasoning and context aggregation into a NN. The whole idea here is to have another type of block, a pyramid block, that consists of X levels of convolutions whose activations are all combined together to give information at different scales. And then repeat. This has quite commonly been used in semantic segmentation and instance segmentation.
+
