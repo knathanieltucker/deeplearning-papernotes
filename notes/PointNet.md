@@ -1,0 +1,1 @@
+Another H. Su work. This one is quite simple, can we learn semantic segmentation and classification onto of point clouds. The resulting idea is pretty simple, yes. And we can just get away with a MLP to do so!
