@@ -1,5 +1,10 @@
 ## 2017 August
 
+* Image Style Transfer Using Convolutional Neural Networks [[IEEE](http://ieeexplore.ieee.org/document/7780634/)]
+* Generating Images with Perceptual Similarity Metrics based on Deep Networks [[arXiv](https://arxiv.org/pdf/1602.02644.pdf)]
+* [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Photo-RealisticSingleImageSuperResolutionUsingaGenerativeAdversarialNetwork.md) [[arXiv](https://arxiv.org/abs/1609.04802)] (Twitter)
+* Photographic Image Synthesis with Cascaded Refinement Networks [[Stanford](http://web.stanford.edu/~cqf/papers/Photographic_Image_Synthesis_ICCV2017.pdf)]
+* [Kernel-Predicting Convolutional Networks for Denoising Monte Carlo Renderings](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Kernel-PredictingConvolutionalNetworksforDenoisingMonteCarloRenderings.md) [[Pixar](http://graphics.pixar.com/library/MLDenoisingB/paper.pdf)]
 * [Feature Pyramid Networks for Object Detection](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/FeaturePyramidNetworksforObjectDetection.md) [[arXiv](https://arxiv.org/abs/1612.03144)] (FAIR)
 * PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space [[arXiv](https://arxiv.org/abs/1706.02413)] (H. Su)
 * [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/PointNet.md) [[arXiv](https://arxiv.org/abs/1612.00593)] (H. Su)
