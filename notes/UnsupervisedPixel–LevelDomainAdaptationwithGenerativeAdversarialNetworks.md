@@ -1,0 +1,1 @@
+A google brain paper simply trying to generate some nice refined images. They use a GAN that takes in both noise and a simulated image as input and used a masked pairwise mean squared error as its regularization.
