@@ -1,5 +1,10 @@
 ## 2017 August
 
+* [Domain-Adversarial Training of Neural Networks](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Domain-AdversarialTrainingofNeuralNetworks.md) [[JMLR](http://jmlr.org/papers/volume17/15-239/15-239.pdf)]
+* [Domain Separation Networks](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/DomainSeparationNetworks.md) [[NIPS](http://papers.nips.cc/paper/6254-domain-separation-networks.pdf)] (Brain)
+* [REVISITING BATCH NORMALIZATION FOR PRACTICAL DOMAIN ADAPTATION](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/REVISITING_BATCH_NORMALIZATION_FOR_PRACTICAL_DOMAIN_ADAPTATION.md) [[arXiv](https://arxiv.org/pdf/1603.04779.pdf)]
+* Domain Adaptation for Visual Applications: A Comprehensive Survey [[arXiv](https://arxiv.org/pdf/1702.05374.pdf)]
+* [Unsupervised Pixel–Level Domain Adaptation with Generative Adversarial Networks](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/UnsupervisedPixel–LevelDomainAdaptationwithGenerativeAdversarialNetworks.md) [[arXiv](https://arxiv.org/pdf/1612.05424.pdf)] (Brain)
 * Image Style Transfer Using Convolutional Neural Networks [[IEEE](http://ieeexplore.ieee.org/document/7780634/)]
 * Generating Images with Perceptual Similarity Metrics based on Deep Networks [[arXiv](https://arxiv.org/pdf/1602.02644.pdf)]
 * [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Photo-RealisticSingleImageSuperResolutionUsingaGenerativeAdversarialNetwork.md) [[arXiv](https://arxiv.org/abs/1609.04802)] (Twitter)
