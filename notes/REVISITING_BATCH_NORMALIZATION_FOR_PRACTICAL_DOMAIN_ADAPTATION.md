@@ -1,0 +1,1 @@
+This guy is really quite simple. Use a network with batch normalization during training and change the bias and the variance in that batch normalization to that of the test distribution during testing. Done.
