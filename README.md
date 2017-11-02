@@ -1,3 +1,7 @@
+## 2017 September - October
+
+* [Cut, Paste and Learn: Surprisingly Easy Synthesis for Instance Detection](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/CutPasteLearn.md) [[arXiv](https://arxiv.org/abs/1708.01642)] (CMU)
+
 ## 2017 August
 
 * [Domain-Adversarial Training of Neural Networks](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Domain-AdversarialTrainingofNeuralNetworks.md) [[JMLR](http://jmlr.org/papers/volume17/15-239/15-239.pdf)]
