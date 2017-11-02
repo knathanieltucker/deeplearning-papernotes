@@ -1,5 +1,6 @@
 ## 2017 September - October
 
+* [Wasserstein GAN](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/WassersteinGan.md) [[arXiv](https://arxiv.org/abs/1701.07875)]
 * [Cut, Paste and Learn: Surprisingly Easy Synthesis for Instance Detection](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/CutPasteLearn.md) [[arXiv](https://arxiv.org/abs/1708.01642)] (CMU)
 
 ## 2017 August
