@@ -1,3 +1,9 @@
+## 2018 January
+
+* [Deep Image Prior](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/DeepImagePrior.md) [[arXiv](https://sites.skoltech.ru/app/data/uploads/sites/25/2017/12/deep_image_prior.pdf)] (Vedaldi)
+* [Recent Advances in Recurrent Neural Networks](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/RecentAdvancesinRecurrentNeuralNetworks.md) [[arXiv](https://arxiv.org/abs/1801.01078)]
+* Deep Learning: A Critical Appraisal [[arXiv](https://arxiv.org/abs/1801.00631)] (Gary Marcus)
+
 ## 2017 September - October
 
 * [Wasserstein GAN](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/WassersteinGan.md) [[arXiv](https://arxiv.org/abs/1701.07875)]
