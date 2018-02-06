@@ -1,5 +1,6 @@
 ## 2018 Febuary 
 
+* [Deep Learning for Sentiment Analysis : A Survey](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/DeepLearningforSentimentAnalysis.md) [[arXiv](https://arxiv.org/abs/1801.07883)]
 * [Fine-Grained Recognition without Part Annotations](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Fine-GrainedRecognitionwithoutPartAnnotations.md) [[stanford](http://vision.stanford.edu/pdf/joncvpr15.pdf)] (Fei Fei)
 
 ## 2018 January
