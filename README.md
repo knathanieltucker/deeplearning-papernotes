@@ -1,3 +1,7 @@
+## 2018 Febuary 
+
+* [Fine-Grained Recognition without Part Annotations](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Fine-GrainedRecognitionwithoutPartAnnotations.md) [[stanford](http://vision.stanford.edu/pdf/joncvpr15.pdf)] (Fei Fei)
+
 ## 2018 January
 
 * [Deep Image Prior](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/DeepImagePrior.md) [[arXiv](https://sites.skoltech.ru/app/data/uploads/sites/25/2017/12/deep_image_prior.pdf)] (Vedaldi)
