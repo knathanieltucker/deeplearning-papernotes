@@ -1,0 +1,2 @@
+I quite enjoyed this paper. So this is the commentary on the Lake paper Building Machines that Learn and Think like People. So just as a recap, the learn and think like people paper focuses on building stronger inductive biases into the models we build, eg. intuitive physics. Deepmind agrees that humanlike intelligence depends on rich internal models, but they believe that instead of hard coding these models, they should be learned. And that by doing that you get economical task specific models that can flexibly adapt. Great paper and recommended read.
+
