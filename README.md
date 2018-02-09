@@ -1,5 +1,9 @@
 ## 2018 Febuary 
 
+* When Will AI Exceed Human Performance? Evidence from AI Experts [[arXiv](https://arxiv.org/abs/1705.08807)]
+* Can Computers Create Art? [[arXiv](https://arxiv.org/abs/1801.04486)] (Adobe)
+* [Building Machines that Learn and Think for Themselves](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/BuildingMachinesThatLearnandThinkLikePeople.md) [[arXiv](https://arxiv.org/abs/1711.08378)] (Deepmind)
+* Building Machines That Learn and Think Like People [[arXiv](https://arxiv.org/abs/1604.00289)] (Tenenbaum)
 * [Deep Learning for Sentiment Analysis : A Survey](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/DeepLearningforSentimentAnalysis.md) [[arXiv](https://arxiv.org/abs/1801.07883)]
 * [Fine-Grained Recognition without Part Annotations](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Fine-GrainedRecognitionwithoutPartAnnotations.md) [[stanford](http://vision.stanford.edu/pdf/joncvpr15.pdf)] (Fei Fei)
 
