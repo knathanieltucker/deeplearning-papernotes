@@ -1,0 +1,1 @@
+I am always skeptical of these types of papers. Again google seemed to take a problems and throw computational resources at it. The ingredients of the evolutionary algorithms were already the components in SOTA. They did not even compare it to just throwing the same resources at a naive hyperparam search. 
