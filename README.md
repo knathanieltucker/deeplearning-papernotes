@@ -1,5 +1,7 @@
 ## 2018 Febuary 
 
+* [Convolutional Pose Machines](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/ConvolutionalPoseMachines.md) [[arXiv](https://arxiv.org/abs/1602.00134)] (CMU)
+* [Real-Time Seamless Single Shot 6D Object Pose Prediction](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Real-TimeSeamlessSingleShot6DObjectPosePrediction.md) [[arXiv](https://arxiv.org/abs/1711.08848)]
 * Beyond Word Importance: Contextual Decomposition to Extract Interactions from LSTMs [[arXiv](https://arxiv.org/abs/1801.05453)] (Google Brain)
 * [Large-Scale Evolution of Image Classifiers](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Large-ScaleEvolutionofImageClassifiers.md) [[arXiv](https://arxiv.org/abs/1703.01041)] (Google Brain)
 * [Neural Program Synthesis with Priority Queue Training](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/NeuralProgramSynthesiswithPriorityQueueTraining.md) [[arXiv](https://arxiv.org/abs/1801.03526)] (Google Brain)
