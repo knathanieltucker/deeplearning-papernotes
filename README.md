@@ -1,5 +1,7 @@
 ## 2018 Febuary 
 
+* One Model To Learn Them All [[arXiv](https://arxiv.org/abs/1706.05137)] (Google Brain)
+* [The Shattered Gradients Problem: If resnets are the answer, then what is the question?](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/TheShatteredGradientsProblem.md) [[arXiv](https://arxiv.org/abs/1702.08591)]
 * When Will AI Exceed Human Performance? Evidence from AI Experts [[arXiv](https://arxiv.org/abs/1705.08807)]
 * Can Computers Create Art? [[arXiv](https://arxiv.org/abs/1801.04486)] (Adobe)
 * [Building Machines that Learn and Think for Themselves](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/BuildingMachinesThatLearnandThinkLikePeople.md) [[arXiv](https://arxiv.org/abs/1711.08378)] (Deepmind)
