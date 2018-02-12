@@ -1,5 +1,8 @@
 ## 2018 Febuary 
 
+* [Uncertainty-Driven 6D Pose Estimation of Objects and Scenes from a Single RGB Image](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Uncertainty-Driven6DPoseEstimation.md) [[arXiv](http://ieeexplore.ieee.org/document/7780735/)] (Dresden)
+* [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/CycleGan.md) [[arXiv](https://arxiv.org/abs/1703.10593)] (BAIR)
+* [Sim-to-Real Robot Learning from Pixels with Progressive Nets](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Sim-to-RealRobotLearningfromPixelswithProgressiveNets.md) [[arXiv](https://arxiv.org/abs/1610.04286)] (Deepmind)
 * [Convolutional Pose Machines](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/ConvolutionalPoseMachines.md) [[arXiv](https://arxiv.org/abs/1602.00134)] (CMU)
 * [Real-Time Seamless Single Shot 6D Object Pose Prediction](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Real-TimeSeamlessSingleShot6DObjectPosePrediction.md) [[arXiv](https://arxiv.org/abs/1711.08848)]
 * Beyond Word Importance: Contextual Decomposition to Extract Interactions from LSTMs [[arXiv](https://arxiv.org/abs/1801.05453)] (Google Brain)
