@@ -1,0 +1,1 @@
+Pretty cool NYU paper (pretty old as well) that shows off a lot of tricks to visualize CNNs. A lot of these tools are already made: https://github.com/raghakot/keras-vis, and https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html
