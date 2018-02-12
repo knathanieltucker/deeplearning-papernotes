@@ -1,5 +1,8 @@
 ## 2018 Febuary 
 
+* [Transforming Auto-encoders](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/TransformingAuto-encoders.md) [[UT](http://www.cs.toronto.edu/~fritz/absps/transauto6.pdf)] (Hinton, Krizhevsky)
+* Top-down Neural Attention by Excitation Backprop [[arXiv](https://arxiv.org/abs/1608.00507)]
+* [Visualizing and Understanding Convolutional Networks](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/VisualizingandUnderstandingConvolutionalNetworks.md) [[NYU](https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)]
 * [Uncertainty-Driven 6D Pose Estimation of Objects and Scenes from a Single RGB Image](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Uncertainty-Driven6DPoseEstimation.md) [[arXiv](http://ieeexplore.ieee.org/document/7780735/)] (Dresden)
 * [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/CycleGan.md) [[arXiv](https://arxiv.org/abs/1703.10593)] (BAIR)
 * [Sim-to-Real Robot Learning from Pixels with Progressive Nets](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Sim-to-RealRobotLearningfromPixelswithProgressiveNets.md) [[arXiv](https://arxiv.org/abs/1610.04286)] (Deepmind)
