@@ -1,0 +1,1 @@
+A pretty cool Hinton paper. The very high level summary is that he wants CNNs to have equivariance and hypothesis suppression using a backward pass. But there is a great video on this as well that does a good job explaining the paper, so I’ll just link it here: https://www.youtube.com/watch?v=pPN8d0E3900
