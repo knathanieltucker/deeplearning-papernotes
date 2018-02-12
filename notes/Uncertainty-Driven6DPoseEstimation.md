@@ -1,0 +1,1 @@
+This one is a big one, it does 6d pose estimation. So there are three parts: 1) random forest to classify each pixel as a type of object and location on the object, 2) we will project objects onto the scene using the predictions above and then perform RANSAC to eliminate hypotheses, 3) they do some sort of pose refinement. 
