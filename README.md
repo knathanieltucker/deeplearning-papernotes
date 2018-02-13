@@ -1,5 +1,10 @@
 ## 2018 Febuary 
 
+* [Imitation networks: Few-shot learning of neural networks from scratch](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/ImitationNetworks.md) [[arXiv](https://www.arxiv-vanity.com/papers/1802.03039/)] (Ghahramani)
+* [Nested LSTMs](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/NestedLSTMs.md) [[arXiv](https://arxiv.org/abs/1801.10308)] (Krueger)
+* DensePose: Dense Human Pose Estimation In The Wild [[arXiv](https://arxiv.org/abs/1802.00434)] (FAIR)
+* [Regularized Evolution for Image Classifier Architecture Search](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/RegularizedEvolutionforImageClassifierArchitectureSearch.md) [[arXiv](https://arxiv.org/abs/1802.01548?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI)] (Quoc Le, Google Brain)
+* Artificial Intelligence and Statistics [[arXiv](https://arxiv.org/abs/1712.03779)] (Bin Yu)
 * [Focal Loss for Dense Object Detection](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/FocalLossforDenseObjectDetection.md) [[arXiv](https://arxiv.org/abs/1708.02002)] (FAIR, He)
 * [Stacked What-Where Auto-encoders](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/StackedWhat-WhereAuto-encoders.md) [[arXiv](https://arxiv.org/abs/1506.02351)] (NYU, LeCun)
 * Deep Learning Book (Autoencoders) [[Book]](http://www.deeplearningbook.org/contents/autoencoders.html) (Goodfellow, Bengio, Courville)
@@ -25,7 +30,7 @@
 
 ## 2018 January
 
-* [Deep Image Prior](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/DeepImagePrior.md) [[arXiv](https://sites.skoltech.ru/app/data/uploads/sites/25/2017/12/deep_image_prior.pdf)] (Vedaldi)
+* [Deep Image Prior](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/DeepImagePrior.md) [[arXiv](https://sites.skoltech.ru/app/data/uploads/sites/25/2017/12/deep_image_prior.pdf)] (Vedaldi, Krueger)
 * [Recent Advances in Recurrent Neural Networks](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/RecentAdvancesinRecurrentNeuralNetworks.md) [[arXiv](https://arxiv.org/abs/1801.01078)]
 * Deep Learning: A Critical Appraisal [[arXiv](https://arxiv.org/abs/1801.00631)] (Gary Marcus)
 
