@@ -1,5 +1,8 @@
 ## 2018 Febuary 
 
+* [Focal Loss for Dense Object Detection](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/FocalLossforDenseObjectDetection.md) [[arXiv](https://arxiv.org/abs/1708.02002)] (FAIR, He)
+* [Stacked What-Where Auto-encoders](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/StackedWhat-WhereAuto-encoders.md) [[arXiv](https://arxiv.org/abs/1506.02351)] (NYU, LeCun)
+* Deep Learning Book (Autoencoders) [[Book]](http://www.deeplearningbook.org/contents/autoencoders.html) (Goodfellow, Bengio, Courville)
 * [Transforming Auto-encoders](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/TransformingAuto-encoders.md) [[UT](http://www.cs.toronto.edu/~fritz/absps/transauto6.pdf)] (Hinton, Krizhevsky)
 * Top-down Neural Attention by Excitation Backprop [[arXiv](https://arxiv.org/abs/1608.00507)]
 * [Visualizing and Understanding Convolutional Networks](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/VisualizingandUnderstandingConvolutionalNetworks.md) [[NYU](https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)]
