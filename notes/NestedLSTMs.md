@@ -1,0 +1,1 @@
+Nested LSTMs. Surprisingly more intuitive for me than stacked LSTMs.So an LSTM needs some function to combine the current input with the previous input, and what if that function were an LSTM!!! This is a way to add depth to RNNs, seems to perform better than stacked LSTMs. We will see if it gets implemented by any of the big libraries.
