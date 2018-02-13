@@ -1,0 +1,1 @@
+Lovely little FAIR paper with He on it as well. Super simple idea: we should focus on class imbalance and predictions on the margin. So they use inverse class frequency as a weight and (1 - p_t) where p_t is probability correct to focus on the underrepresented classes and the marginally correct examples. 
