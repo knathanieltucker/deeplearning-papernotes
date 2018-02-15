@@ -1,5 +1,9 @@
 ## 2018 Febuary 
 
+* [Image-to-Image Translation with Conditional Adversarial Networks](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Image-to-ImageTranslationwithConditionalAdversarialNetworks.md) [[arXiv](https://arxiv.org/abs/1611.07004)] (BAIR)
+* Scalable and accurate deep learning for electronic health records [[arXiv](https://arxiv.org/abs/1801.07860)] (Google Brain)
+* Generating Wikipedia by Summarizing Long Sequences [[arXiv](https://arxiv.org/abs/1801.10198)] (Google Brain)
+* Visual Interpretability for Deep Learning: a Survey [[https://arxiv.org/abs/1802.00614]]
 * [Imitation networks: Few-shot learning of neural networks from scratch](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/ImitationNetworks.md) [[arXiv](https://www.arxiv-vanity.com/papers/1802.03039/)] (Ghahramani)
 * [Nested LSTMs](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/NestedLSTMs.md) [[arXiv](https://arxiv.org/abs/1801.10308)] (Krueger)
 * DensePose: Dense Human Pose Estimation In The Wild [[arXiv](https://arxiv.org/abs/1802.00434)] (FAIR)
