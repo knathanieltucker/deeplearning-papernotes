@@ -1,5 +1,8 @@
 ## 2018 Febuary 
 
+* Deep Learning Book (Monte Carlo Methods) [[Book]](http://www.deeplearningbook.org/contents/monte_carlo.htmll) (Goodfellow, Bengio, Courville)
+* Deep Learning Book (Structured Probabilistic Modelsfor Deep Learning) [[Book]](http://www.deeplearningbook.org/contents/graphical_models.html) (Goodfellow, Bengio, Courville)
+* Deep Learning Book (Representational Learning) [[Book]](http://www.deeplearningbook.org/contents/representation.html) (Goodfellow, Bengio, Courville)
 * [Image-to-Image Translation with Conditional Adversarial Networks](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Image-to-ImageTranslationwithConditionalAdversarialNetworks.md) [[arXiv](https://arxiv.org/abs/1611.07004)] (BAIR)
 * Scalable and accurate deep learning for electronic health records [[arXiv](https://arxiv.org/abs/1801.07860)] (Google Brain)
 * Generating Wikipedia by Summarizing Long Sequences [[arXiv](https://arxiv.org/abs/1801.10198)] (Google Brain)
