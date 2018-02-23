@@ -1,5 +1,6 @@
 ## 2018 Febuary 
 
+* Deep Learning Book (Approximate Inference) [[Book]](http://www.deeplearningbook.org/contents/inference.html) (Goodfellow, Bengio, Courville)
 * Deep Learning Book (Confronting the Partition Function) [[Book]](http://www.deeplearningbook.org/contents/partition.html) (Goodfellow, Bengio, Courville)
 * Deep Learning Book (Monte Carlo Methods) [[Book]](http://www.deeplearningbook.org/contents/monte_carlo.html) (Goodfellow, Bengio, Courville)
 * Deep Learning Book (Structured Probabilistic Modelsfor Deep Learning) [[Book]](http://www.deeplearningbook.org/contents/graphical_models.html) (Goodfellow, Bengio, Courville)
