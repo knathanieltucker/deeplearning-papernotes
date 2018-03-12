@@ -1,0 +1,1 @@
+A pretty cool concept for retaining an RL NN. The pretraining objective is: Maximize the entropy of states and the entropy of actions given states and skills minus the entropy of states given skills. So you want the be able to reach a lot of states. Be able to tell how you reached them. And use a diversity of actions to get there.
