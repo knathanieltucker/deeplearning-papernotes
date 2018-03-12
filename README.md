@@ -1,5 +1,6 @@
 ## 2018 March
 
+* [Automatic Real-time Background Cut for Portrait Videos](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/AutomaticReal-timeBackgroundCutforPortraitVideos.md) [[arXiv](https://arxiv.org/abs/1704.08812)]
 * [Pixel Objectness](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/PixelObjectness.md) [[arXiv](https://arxiv.org/abs/1701.05349)]
 * The Building Blocks of Interpretability [[distill](https://distill.pub/2018/building-blocks/)]
 
