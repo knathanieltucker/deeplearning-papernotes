@@ -1,5 +1,8 @@
 ## 2018 March
 
+* [Diversity is All You Need: Learning Skills without a Reward Function](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/DiversityisAllYouNeed.md) [[arXiv](https://arxiv.org/pdf/1802.06070.pdf)]
+* [Learning to Prune Filters in Convolutional Neural Networks](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/LearningtoPruneFiltersinCNNs.md) [[arXiv](https://arxiv.org/abs/1801.07365)]
+* Adversarial Examples that Fool both Human and Computer Vision [[arXiv](https://arxiv.org/abs/1802.08195)] (Goodfellow)
 * [Automatic Real-time Background Cut for Portrait Videos](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/AutomaticReal-timeBackgroundCutforPortraitVideos.md) [[arXiv](https://arxiv.org/abs/1704.08812)]
 * [Pixel Objectness](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/PixelObjectness.md) [[arXiv](https://arxiv.org/abs/1701.05349)]
 * The Building Blocks of Interpretability [[distill](https://distill.pub/2018/building-blocks/)]
