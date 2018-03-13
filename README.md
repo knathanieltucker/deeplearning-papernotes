@@ -1,5 +1,7 @@
 ## 2018 March
 
+* [DO GANS LEARN THE DISTRIBUTION? SOME THEORY AND EMPIRICS](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/DOGANSLEARNTHEDISTRIBUTION.md) [[arXiv](https://openreview.net/pdf?id=BJehNfW0-)]
+* One Big Net For Everything [[arXiv](https://arxiv.org/abs/1802.08864)] (Schmidhuber)
 * [Diversity is All You Need: Learning Skills without a Reward Function](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/DiversityisAllYouNeed.md) [[arXiv](https://arxiv.org/pdf/1802.06070.pdf)]
 * [Learning to Prune Filters in Convolutional Neural Networks](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/LearningtoPruneFiltersinCNNs.md) [[arXiv](https://arxiv.org/abs/1801.07365)]
 * Adversarial Examples that Fool both Human and Computer Vision [[arXiv](https://arxiv.org/abs/1802.08195)] (Goodfellow)
