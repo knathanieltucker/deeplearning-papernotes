@@ -1,0 +1,1 @@
+Fun little paper. Has some theoretical results. Main result is to show that GANs can’t generate as many unique images as we thought they could. They do this using the Birthday problem. They see duplicate faces in a batch of X faces and therefore they assume the network can only generate X^2 faces. 
