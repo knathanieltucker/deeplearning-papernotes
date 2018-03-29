@@ -1,3 +1,11 @@
+## 2018 April
+
+* [Averaging Weights Leads to Wider Optima and Better Generalization](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/AveragingWeightsLeadstoWiderOptimaandGeneralization.md) [[arXiv](https://arxiv.org/abs/1803.05407)]
+* The History Began from AlexNet: A Comprehensive Survey on Deep Learning Approaches [[arXiv](https://arxiv.org/abs/1803.01164)]
+* Neural Network Quine [[arXiv](https://arxiv.org/abs/1803.05859)]
+* [Recurrent Residual Convolutional Neural Network based on U-Net (R2U-Net) for Medical Image Segmentation](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/r2unet.md) [[arXiv](https://arxiv.org/pdf/1802.06955.pdf)]
+* [Group Normalization](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/GroupNormalization.md) [[arXiv](https://arxiv.org/abs/1803.08494)] (FAIR, Kaiming He)
+
 ## 2018 March
 
 * [DO GANS LEARN THE DISTRIBUTION? SOME THEORY AND EMPIRICS](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/DOGANSLEARNTHEDISTRIBUTION.md) [[arXiv](https://openreview.net/pdf?id=BJehNfW0-)]
