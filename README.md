@@ -1,5 +1,6 @@
 ## 2018 April
 
+* [A systematic study of the class imbalance problem in convolutional neural networks](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Asystematicstudyoftheclassimbalanceprobleminconvolutionalneuralnetworks.md) [[arXiv](https://arxiv.org/abs/1710.05381)]
 * [Averaging Weights Leads to Wider Optima and Better Generalization](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/AveragingWeightsLeadstoWiderOptimaandGeneralization.md) [[arXiv](https://arxiv.org/abs/1803.05407)]
 * The History Began from AlexNet: A Comprehensive Survey on Deep Learning Approaches [[arXiv](https://arxiv.org/abs/1803.01164)]
 * Neural Network Quine [[arXiv](https://arxiv.org/abs/1803.05859)]
