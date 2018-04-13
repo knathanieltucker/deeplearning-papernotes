@@ -1,5 +1,8 @@
 ## 2018 April
 
+* [A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Part1learningratebatchsizemomentumandweightdecay.md) [[arXiv](https://arxiv.org/abs/1803.09820)]
+* Convolutional Neural Networks Regularized by Correlated Noise [[arXiv](https://arxiv.org/abs/1804.00815)]
+* Universal Sentence Encoder [[arXiv](https://arxiv.org/abs/1803.11175)] (Google Brain, Kurzweil)
 * [A systematic study of the class imbalance problem in convolutional neural networks](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Asystematicstudyoftheclassimbalanceprobleminconvolutionalneuralnetworks.md) [[arXiv](https://arxiv.org/abs/1710.05381)]
 * [Averaging Weights Leads to Wider Optima and Better Generalization](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/AveragingWeightsLeadstoWiderOptimaandGeneralization.md) [[arXiv](https://arxiv.org/abs/1803.05407)]
 * The History Began from AlexNet: A Comprehensive Survey on Deep Learning Approaches [[arXiv](https://arxiv.org/abs/1803.01164)]
