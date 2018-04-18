@@ -1,5 +1,7 @@
 ## 2018 April
 
+* [VISUALIZING THE LOSS LANDSCAPE OF NEURAL NETS](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/VISUALIZING_THE_LOSS_LANDSCAPE_OF_NEURAL_NETS.md) [[arXiv](https://arxiv.org/pdf/1712.09913.pdf)]
+* PRUNING FILTERS FOR EFFICIENT CONVNETS [[arXiv](https://arxiv.org/pdf/1608.08710.pdf)]
 * [A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Part1learningratebatchsizemomentumandweightdecay.md) [[arXiv](https://arxiv.org/abs/1803.09820)]
 * Convolutional Neural Networks Regularized by Correlated Noise [[arXiv](https://arxiv.org/abs/1804.00815)]
 * Universal Sentence Encoder [[arXiv](https://arxiv.org/abs/1803.11175)] (Google Brain, Kurzweil)
