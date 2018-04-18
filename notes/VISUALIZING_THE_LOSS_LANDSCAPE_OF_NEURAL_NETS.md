@@ -1,0 +1,1 @@
+Nice paper. The whole gist of it is that we can visualize the loss function of different NNs only by using filter normalization (see the paper). The second thing explained (pretty useful) is that flatter loss function regions yield better generalization performance. Another classic result repeated.
