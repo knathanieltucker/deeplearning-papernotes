@@ -1,0 +1,1 @@
+Another really nice paper out of NVIDIA. A nice explanation of domain randomization that gives hope to image NN training with low amounts of labeled. Has a couple of tips on how to train NNs in this regime so long as you have a fast rendering engine.
