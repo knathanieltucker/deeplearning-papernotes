@@ -1,0 +1,1 @@
+A nice little IBM paper talking about the current state of probabilistic programming languages. As a side effect, it does a good job explaining inference with PGMs, variational inference and variational auto encoders. 
