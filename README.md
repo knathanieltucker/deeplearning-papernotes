@@ -1,5 +1,8 @@
 ## 2018 April
 
+* [Training Deep Networks with Synthetic Data: Bridging the Reality Gap by Domain Randomization](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/TrainingDeepNetworkswithSyntheticData.md) [[arXiv](https://arxiv.org/abs/1804.06516)] (NVIDIA)
+* Deep Face Recognition: A Survey [[arXiv](https://arxiv.org/abs/1804.06655v1)]
+* [Deep Probabilistic Programming Languages: A Qualitative Study](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/DeepProbabilisticProgrammingLanguages.md) [[arXiv](https://arxiv.org/abs/1804.06458)] (IBM)
 * [VISUALIZING THE LOSS LANDSCAPE OF NEURAL NETS](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/VISUALIZING_THE_LOSS_LANDSCAPE_OF_NEURAL_NETS.md) [[arXiv](https://arxiv.org/pdf/1712.09913.pdf)]
 * PRUNING FILTERS FOR EFFICIENT CONVNETS [[arXiv](https://arxiv.org/pdf/1608.08710.pdf)]
 * [A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/Part1learningratebatchsizemomentumandweightdecay.md) [[arXiv](https://arxiv.org/abs/1803.09820)]
