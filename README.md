@@ -1,3 +1,9 @@
+## 2018 May
+
+* Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network [[arXiv(https://arxiv.org/abs/1803.07835)]]
+* Semi-parametric Image Synthesis [[arXiv](http://vladlen.info/papers/SIMS.pdf)]
+* Revisiting Small Batch Training for Deep Neural Networks [[arXiv](https://arxiv.org/pdf/1804.07612.pdf)]
+
 ## 2018 April
 
 * [Training Deep Networks with Synthetic Data: Bridging the Reality Gap by Domain Randomization](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/TrainingDeepNetworkswithSyntheticData.md) [[arXiv](https://arxiv.org/abs/1804.06516)] (NVIDIA)
