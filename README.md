@@ -1,7 +1,7 @@
 ## 2018 May
 
 * [World Models](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/WorldModels.md) [[arXiv](https://arxiv.org/abs/1803.10122)] (Schmidhuber)
-* Data science is science's second chance to get causal inference right: A classification of data science tasks [[arXiv(https://arxiv.org/abs/1804.10846)]] (Hernan)
+* Data science is science's second chance to get causal inference right: A classification of data science tasks [[arXiv](https://arxiv.org/abs/1804.10846)] (Hernan)
 * Label Refinery: Improving ImageNet Classification through Label Progression [[arXiv](https://arxiv.org/abs/1805.02641)]
 * [Transferring GANs: generating images from limited data](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/TransferringGANs.md) [[arXiv](https://arxiv.org/abs/1805.01677)]
 * Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network [[arXiv](https://arxiv.org/abs/1803.07835)]
