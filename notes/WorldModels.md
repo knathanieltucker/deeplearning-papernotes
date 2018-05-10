@@ -1,0 +1,1 @@
+World models. Another interesting Schmidhuber paper. Basically compress the visual state using a VAE, predict future states using an RNN then learn to use this representation at input to a RL controller.
