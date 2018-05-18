@@ -1,5 +1,7 @@
 ## 2018 May
-
+* [Boosting Domain Adaptation by Discovering Latent Domains](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/BoostingDomainAdaptationbyDiscoveringLatentDomains.md) [[arXiv](https://arxiv.org/abs/1805.01386)]
+* Arbitrary Style Transfer with Deep Feature Reshuffle [[arXiv](https://arxiv.org/abs/1805.04103)]
+* From Word to Sense Embeddings: A Survey on Vector Representations of Meaning [[arXiv](https://arxiv.org/abs/1805.04032)]
 * [World Models](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/WorldModels.md) [[arXiv](https://arxiv.org/abs/1803.10122)] (Schmidhuber)
 * Data science is science's second chance to get causal inference right: A classification of data science tasks [[arXiv](https://arxiv.org/abs/1804.10846)] (Hernan)
 * Label Refinery: Improving ImageNet Classification through Label Progression [[arXiv](https://arxiv.org/abs/1805.02641)]
