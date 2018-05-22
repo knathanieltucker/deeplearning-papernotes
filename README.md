@@ -1,4 +1,8 @@
 ## 2018 May
+
+* [Exploring the structure of a real-time, arbitrary neural artistic stylization network](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/arbitraryneuralartisticstylizationnetwork.md) [[arXiv](https://arxiv.org/abs/1705.06830)] (Google Brain)
+* Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artworks [[arXiv](https://arxiv.org/abs/1603.01768)]
+* Neural Style Transfer: A Review [[arXiv](https://arxiv.org/pdf/1705.04058.pdf)]
 * [Boosting Domain Adaptation by Discovering Latent Domains](https://github.com/knathanieltucker/deeplearning-papernotes/blob/master/notes/BoostingDomainAdaptationbyDiscoveringLatentDomains.md) [[arXiv](https://arxiv.org/abs/1805.01386)]
 * Arbitrary Style Transfer with Deep Feature Reshuffle [[arXiv](https://arxiv.org/abs/1805.04103)]
 * From Word to Sense Embeddings: A Survey on Vector Representations of Meaning [[arXiv](https://arxiv.org/abs/1805.04032)]
